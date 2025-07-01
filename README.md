@@ -23,7 +23,7 @@ This is a RESTful API built with **Java** and **Spring Boot** to interact with t
 
 ---
 
-#Tech Stack
+# Tech Stack
 
 - Java 17
 - Spring Boot
@@ -33,7 +33,7 @@ This is a RESTful API built with **Java** and **Spring Boot** to interact with t
 
 ---
 
-#Prerequisites
+# Prerequisites
 
 - Java 17
 - Maven 3.9.10
@@ -45,17 +45,21 @@ This is a RESTful API built with **Java** and **Spring Boot** to interact with t
 # 1. Clone the Repository
 
 git clone https://github.com/wspace-rr95/spring-assigment.git 
+
 cd spring-assignment
 
-Build and start the appplication
-./mvnw spring-boot:run
- 
+# Build and start the appplication in Spring Tool suite
+
 Click Run->Run configurations ->add new configuration select project name and environment tab
 Add these to fetch the mongodb uri specific for environments spring.profiles.active to local or prod
 
-End points 
+# Configuration
+Added the environment specific mongodb uri in application-local.yml and application-prod.yml
+and server port as 8092
 
-http://localhost:8080/api/drugs/search?substanceName=TICAGRELOR&pageNumber=1&pageSize=10
+# API End points 
+
+http://localhost:8092/api/drugs/search?substanceName=TICAGRELOR&pageNumber=1&pageSize=10
 
 response:
 {

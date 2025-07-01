@@ -1,0 +1,4 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://wspacerr95:3PcLWAUalbY7hz1n@spring-cluster.mb62bug.mongodb.net/drug_info?retryWrites=true&w=majority&appName=spring-cluster
