@@ -30,6 +30,7 @@ This is a RESTful API built with **Java** and **Spring Boot** to interact with t
 - MongoDB
 - Maven
 - REST Template
+- Junit
 
 ---
 
@@ -56,6 +57,21 @@ Add these to fetch the mongodb uri specific for environments spring.profiles.act
 # Configuration
 Added the environment specific mongodb uri in application-local.yml and application-prod.yml
 and server port as 8092
+
+# Controller Test Cases
+
+**File:** `DrugControllerTest.java`
+1. Search By substance name and get the results in pagination
+ - Returns paginated results for valid substance name.
+2. save the drug record
+# Service Test Cases
+
+**File:** `DrugServiceImplTest.java`
+
+1. Call the openFDA query to search the drug record submitted for approval and get the result in pagination by using submiision status as TA and openfda.substance_name.
+ - Returns paginated results for valid substance name.
+ - condition check if the substance name is empty
+2. save the drug record
 
 # API End points 
 

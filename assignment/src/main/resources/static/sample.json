@@ -1,0 +1,806 @@
+{
+    "meta": {
+        "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+        "terms": "https://open.fda.gov/terms/",
+        "license": "https://open.fda.gov/license/",
+        "last_updated": "2025-06-25",
+        "results": {
+            "skip": 0,
+            "limit": 10,
+            "total": 7
+        }
+    },
+    "results": [
+        {
+            "submissions": [
+                {
+                    "submission_type": "ORIG",
+                    "submission_number": "1",
+                    "submission_status": "AP",
+                    "submission_status_date": "20200406",
+                    "review_priority": "STANDARD",
+                    "submission_class_code": "UNKNOWN",
+                    "application_docs": [
+                        {
+                            "id": "55330",
+                            "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2020/208508Orig1s000ltr.pdf",
+                            "date": "20200514",
+                            "type": "Letter"
+                        }
+                    ]
+                },
+                {
+                    "submission_type": "ORIG",
+                    "submission_number": "2",
+                    "submission_status": "TA",
+                    "submission_status_date": "20200406",
+                    "review_priority": "STANDARD",
+                    "submission_class_code": "UNKNOWN"
+                },
+                {
+                    "submission_type": "SUPPL",
+                    "submission_number": "6",
+                    "submission_status": "AP",
+                    "submission_status_date": "20250415",
+                    "review_priority": "STANDARD",
+                    "submission_class_code": "LABELING",
+                    "submission_class_code_description": "Labeling"
+                }
+            ],
+            "application_number": "ANDA208508",
+            "sponsor_name": "SUNSHINE",
+            "openfda": {
+                "application_number": [
+                    "ANDA208508"
+                ],
+                "brand_name": [
+                    "TICAGRELOR"
+                ],
+                "generic_name": [
+                    "TICAGRELOR"
+                ],
+                "manufacturer_name": [
+                    "Oryza Pharmaceuticals, Inc."
+                ],
+                "product_ndc": [
+                    "72516-018"
+                ],
+                "product_type": [
+                    "HUMAN PRESCRIPTION DRUG"
+                ],
+                "route": [
+                    "ORAL"
+                ],
+                "substance_name": [
+                    "TICAGRELOR"
+                ],
+                "rxcui": [
+                    "1116635"
+                ],
+                "spl_id": [
+                    "32c950ec-054d-b0f7-e063-6394a90ad41c"
+                ],
+                "spl_set_id": [
+                    "32c950bd-7f5f-a811-e063-6394a90a0080"
+                ],
+                "package_ndc": [
+                    "72516-018-06"
+                ],
+                "nui": [
+                    "N0000182142",
+                    "N0000008832",
+                    "N0000182143",
+                    "N0000182141",
+                    "N0000185503"
+                ],
+                "pharm_class_epc": [
+                    "P2Y12 Platelet Inhibitor [EPC]"
+                ],
+                "pharm_class_pe": [
+                    "Decreased Platelet Aggregation [PE]"
+                ],
+                "pharm_class_moa": [
+                    "P2Y12 Receptor Antagonists [MoA]",
+                    "Cytochrome P450 3A4 Inhibitors [MoA]",
+                    "P-Glycoprotein Inhibitors [MoA]"
+                ],
+                "unii": [
+                    "GLH0314RVC"
+                ]
+            },
+            "products": [
+                {
+                    "product_number": "001",
+                    "reference_drug": "No",
+                    "brand_name": "TICAGRELOR",
+                    "active_ingredients": [
+                        {
+                            "name": "TICAGRELOR",
+                            "strength": "90MG"
+                        }
+                    ],
+                    "reference_standard": "No",
+                    "dosage_form": "TABLET",
+                    "route": "ORAL",
+                    "marketing_status": "Prescription",
+                    "te_code": "AB"
+                }
+            ]
+        },
+        {
+            "submissions": [
+                {
+                    "submission_type": "ORIG",
+                    "submission_number": "2",
+                    "submission_status": "TA",
+                    "submission_status_date": "20250505",
+                    "review_priority": "STANDARD",
+                    "submission_class_code": "UNKNOWN"
+                },
+                {
+                    "submission_type": "ORIG",
+                    "submission_number": "1",
+                    "submission_status": "AP",
+                    "submission_status_date": "20250505",
+                    "review_priority": "STANDARD",
+                    "submission_class_code": "UNKNOWN"
+                }
+            ],
+            "application_number": "ANDA208537",
+            "sponsor_name": "INVAGEN PHARMS",
+            "openfda": {
+                "application_number": [
+                    "ANDA208537"
+                ],
+                "brand_name": [
+                    "TICAGRELOR"
+                ],
+                "generic_name": [
+                    "TICAGRELOR"
+                ],
+                "manufacturer_name": [
+                    "Exelan Pharmaceuticals, Inc"
+                ],
+                "product_ndc": [
+                    "76282-550"
+                ],
+                "product_type": [
+                    "HUMAN PRESCRIPTION DRUG"
+                ],
+                "route": [
+                    "ORAL"
+                ],
+                "substance_name": [
+                    "TICAGRELOR"
+                ],
+                "rxcui": [
+                    "1116635"
+                ],
+                "spl_id": [
+                    "f9b5f4cb-0478-4e73-b0f4-211f568eaf79"
+                ],
+                "spl_set_id": [
+                    "eb8fb960-1f0e-40b1-9889-b02296bb3c37"
+                ],
+                "package_ndc": [
+                    "76282-550-60",
+                    "76282-550-01",
+                    "76282-550-05"
+                ],
+                "nui": [
+                    "N0000182142",
+                    "N0000008832",
+                    "N0000182143",
+                    "N0000182141",
+                    "N0000185503"
+                ],
+                "pharm_class_epc": [
+                    "P2Y12 Platelet Inhibitor [EPC]"
+                ],
+                "pharm_class_pe": [
+                    "Decreased Platelet Aggregation [PE]"
+                ],
+                "pharm_class_moa": [
+                    "P2Y12 Receptor Antagonists [MoA]",
+                    "Cytochrome P450 3A4 Inhibitors [MoA]",
+                    "P-Glycoprotein Inhibitors [MoA]"
+                ],
+                "unii": [
+                    "GLH0314RVC"
+                ]
+            },
+            "products": [
+                {
+                    "product_number": "001",
+                    "reference_drug": "No",
+                    "brand_name": "TICAGRELOR",
+                    "active_ingredients": [
+                        {
+                            "name": "TICAGRELOR",
+                            "strength": "90MG"
+                        }
+                    ],
+                    "reference_standard": "No",
+                    "dosage_form": "TABLET",
+                    "route": "ORAL",
+                    "marketing_status": "Prescription",
+                    "te_code": "AB"
+                }
+            ]
+        },
+        {
+            "submissions": [
+                {
+                    "submission_type": "ORIG",
+                    "submission_number": "1",
+                    "submission_status": "AP",
+                    "submission_status_date": "20241029",
+                    "review_priority": "STANDARD",
+                    "submission_class_code": "UNKNOWN",
+                    "application_docs": [
+                        {
+                            "id": "65435",
+                            "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2020/208541Orig1s000TAltr.pdf",
+                            "date": "20201201",
+                            "type": "Letter"
+                        }
+                    ]
+                },
+                {
+                    "submission_type": "ORIG",
+                    "submission_number": "2",
+                    "submission_status": "TA",
+                    "submission_status_date": "20241029",
+                    "review_priority": "STANDARD",
+                    "submission_class_code": "UNKNOWN"
+                }
+            ],
+            "application_number": "ANDA208541",
+            "sponsor_name": "DR REDDYS",
+            "openfda": {
+                "application_number": [
+                    "ANDA208541"
+                ],
+                "brand_name": [
+                    "TICAGRELOR"
+                ],
+                "generic_name": [
+                    "TICAGRELOR"
+                ],
+                "manufacturer_name": [
+                    "Dr. Reddys Laboratories Inc"
+                ],
+                "product_ndc": [
+                    "43598-480"
+                ],
+                "product_type": [
+                    "HUMAN PRESCRIPTION DRUG"
+                ],
+                "route": [
+                    "ORAL"
+                ],
+                "substance_name": [
+                    "TICAGRELOR"
+                ],
+                "rxcui": [
+                    "1116635"
+                ],
+                "spl_id": [
+                    "3fbf45f4-4f9d-1813-9e02-2561b44d2536"
+                ],
+                "spl_set_id": [
+                    "1225fd45-9b56-1671-ee77-cd0c9f2174a5"
+                ],
+                "package_ndc": [
+                    "43598-480-60",
+                    "43598-480-18",
+                    "43598-480-79",
+                    "43598-480-78"
+                ],
+                "nui": [
+                    "N0000182142",
+                    "N0000008832",
+                    "N0000182143",
+                    "N0000182141",
+                    "N0000185503"
+                ],
+                "pharm_class_epc": [
+                    "P2Y12 Platelet Inhibitor [EPC]"
+                ],
+                "pharm_class_pe": [
+                    "Decreased Platelet Aggregation [PE]"
+                ],
+                "pharm_class_moa": [
+                    "P2Y12 Receptor Antagonists [MoA]",
+                    "Cytochrome P450 3A4 Inhibitors [MoA]",
+                    "P-Glycoprotein Inhibitors [MoA]"
+                ],
+                "unii": [
+                    "GLH0314RVC"
+                ]
+            },
+            "products": [
+                {
+                    "product_number": "002",
+                    "reference_drug": "No",
+                    "brand_name": "TICAGRELOR",
+                    "active_ingredients": [
+                        {
+                            "name": "TICAGRELOR",
+                            "strength": "90MG"
+                        }
+                    ],
+                    "reference_standard": "No",
+                    "dosage_form": "TABLET",
+                    "route": "ORAL",
+                    "marketing_status": "None (Tentative Approval)"
+                },
+                {
+                    "product_number": "001",
+                    "reference_drug": "No",
+                    "brand_name": "TICAGRELOR",
+                    "active_ingredients": [
+                        {
+                            "name": "TICAGRELOR",
+                            "strength": "90MG"
+                        }
+                    ],
+                    "reference_standard": "No",
+                    "dosage_form": "TABLET",
+                    "route": "ORAL",
+                    "marketing_status": "Prescription",
+                    "te_code": "AB"
+                }
+            ]
+        },
+        {
+            "submissions": [
+                {
+                    "submission_type": "ORIG",
+                    "submission_number": "1",
+                    "submission_status": "AP",
+                    "submission_status_date": "20250502",
+                    "review_priority": "STANDARD",
+                    "submission_class_code": "UNKNOWN",
+                    "application_docs": [
+                        {
+                            "id": "55248",
+                            "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2018/208576Orig1s000TAltr.pdf",
+                            "date": "20180820",
+                            "type": "Letter"
+                        }
+                    ]
+                },
+                {
+                    "submission_type": "ORIG",
+                    "submission_number": "2",
+                    "submission_status": "TA",
+                    "submission_status_date": "20250502",
+                    "review_priority": "STANDARD",
+                    "submission_class_code": "UNKNOWN"
+                }
+            ],
+            "application_number": "ANDA208576",
+            "sponsor_name": "ALEMBIC",
+            "openfda": {
+                "application_number": [
+                    "ANDA208576"
+                ],
+                "brand_name": [
+                    "TICAGRELOR"
+                ],
+                "generic_name": [
+                    "TICAGRELOR"
+                ],
+                "manufacturer_name": [
+                    "Alembic Pharmaceuticals Inc.",
+                    "Alembic Pharmaceuticals Limited"
+                ],
+                "product_ndc": [
+                    "62332-241",
+                    "46708-241"
+                ],
+                "product_type": [
+                    "HUMAN PRESCRIPTION DRUG"
+                ],
+                "route": [
+                    "ORAL"
+                ],
+                "substance_name": [
+                    "TICAGRELOR"
+                ],
+                "rxcui": [
+                    "1116635"
+                ],
+                "spl_id": [
+                    "dcbbbe17-09f4-4545-b123-7e506f708568",
+                    "82f66384-e2c7-41c5-961f-384918ef58ec"
+                ],
+                "spl_set_id": [
+                    "d68b79ab-3104-410e-a63f-9919a23625af",
+                    "82f66384-e2c7-41c5-961f-384918ef58ec"
+                ],
+                "package_ndc": [
+                    "62332-241-30",
+                    "62332-241-60",
+                    "62332-241-31",
+                    "62332-241-91",
+                    "46708-241-30",
+                    "46708-241-60",
+                    "46708-241-31",
+                    "46708-241-91"
+                ],
+                "nui": [
+                    "N0000182142",
+                    "N0000008832",
+                    "N0000182143",
+                    "N0000182141",
+                    "N0000185503"
+                ],
+                "pharm_class_epc": [
+                    "P2Y12 Platelet Inhibitor [EPC]"
+                ],
+                "pharm_class_pe": [
+                    "Decreased Platelet Aggregation [PE]"
+                ],
+                "pharm_class_moa": [
+                    "P2Y12 Receptor Antagonists [MoA]",
+                    "Cytochrome P450 3A4 Inhibitors [MoA]",
+                    "P-Glycoprotein Inhibitors [MoA]"
+                ],
+                "unii": [
+                    "GLH0314RVC"
+                ]
+            },
+            "products": [
+                {
+                    "product_number": "001",
+                    "reference_drug": "No",
+                    "brand_name": "TICAGRELOR",
+                    "active_ingredients": [
+                        {
+                            "name": "TICAGRELOR",
+                            "strength": "90MG"
+                        }
+                    ],
+                    "reference_standard": "No",
+                    "dosage_form": "TABLET",
+                    "route": "ORAL",
+                    "marketing_status": "Prescription",
+                    "te_code": "AB"
+                }
+            ]
+        },
+        {
+            "submissions": [
+                {
+                    "submission_type": "ORIG",
+                    "submission_number": "1",
+                    "submission_status": "AP",
+                    "submission_status_date": "20250501",
+                    "review_priority": "STANDARD",
+                    "submission_class_code": "UNKNOWN"
+                },
+                {
+                    "submission_type": "ORIG",
+                    "submission_number": "2",
+                    "submission_status": "TA",
+                    "submission_status_date": "20250501",
+                    "review_priority": "STANDARD",
+                    "submission_class_code": "UNKNOWN"
+                }
+            ],
+            "application_number": "ANDA208584",
+            "sponsor_name": "APOTEX",
+            "openfda": {
+                "application_number": [
+                    "ANDA208584"
+                ],
+                "brand_name": [
+                    "TICAGRELOR"
+                ],
+                "generic_name": [
+                    "TICAGRELOR"
+                ],
+                "manufacturer_name": [
+                    "Apotex Corp."
+                ],
+                "product_ndc": [
+                    "60505-4452"
+                ],
+                "product_type": [
+                    "HUMAN PRESCRIPTION DRUG"
+                ],
+                "route": [
+                    "ORAL"
+                ],
+                "substance_name": [
+                    "TICAGRELOR"
+                ],
+                "rxcui": [
+                    "1116635"
+                ],
+                "spl_id": [
+                    "6ae034de-c538-d33b-bd8a-65e229a6bcc7"
+                ],
+                "spl_set_id": [
+                    "2c59ea45-6113-6e9e-70b5-3b8c8b3d89b6"
+                ],
+                "package_ndc": [
+                    "60505-4452-6"
+                ],
+                "nui": [
+                    "N0000182142",
+                    "N0000008832",
+                    "N0000182143",
+                    "N0000182141",
+                    "N0000185503"
+                ],
+                "pharm_class_epc": [
+                    "P2Y12 Platelet Inhibitor [EPC]"
+                ],
+                "pharm_class_pe": [
+                    "Decreased Platelet Aggregation [PE]"
+                ],
+                "pharm_class_moa": [
+                    "P2Y12 Receptor Antagonists [MoA]",
+                    "Cytochrome P450 3A4 Inhibitors [MoA]",
+                    "P-Glycoprotein Inhibitors [MoA]"
+                ],
+                "unii": [
+                    "GLH0314RVC"
+                ]
+            },
+            "products": [
+                {
+                    "product_number": "001",
+                    "reference_drug": "No",
+                    "brand_name": "TICAGRELOR",
+                    "active_ingredients": [
+                        {
+                            "name": "TICAGRELOR",
+                            "strength": "90MG"
+                        }
+                    ],
+                    "reference_standard": "No",
+                    "dosage_form": "TABLET",
+                    "route": "ORAL",
+                    "marketing_status": "Prescription",
+                    "te_code": "AB"
+                }
+            ]
+        },
+        {
+            "submissions": [
+                {
+                    "submission_type": "ORIG",
+                    "submission_number": "1",
+                    "submission_status": "AP",
+                    "submission_status_date": "20240816",
+                    "review_priority": "STANDARD",
+                    "submission_class_code": "UNKNOWN",
+                    "application_docs": [
+                        {
+                            "id": "56854",
+                            "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2018/208599Orig1s000TAltr.pdf",
+                            "date": "20181220",
+                            "type": "Letter"
+                        }
+                    ]
+                },
+                {
+                    "submission_type": "ORIG",
+                    "submission_number": "2",
+                    "submission_status": "TA",
+                    "submission_status_date": "20240816",
+                    "review_priority": "STANDARD",
+                    "submission_class_code": "UNKNOWN"
+                }
+            ],
+            "application_number": "ANDA208599",
+            "sponsor_name": "PRINSTON INC",
+            "openfda": {
+                "application_number": [
+                    "ANDA208599"
+                ],
+                "brand_name": [
+                    "TICAGRELOR"
+                ],
+                "generic_name": [
+                    "TICAGRELOR"
+                ],
+                "manufacturer_name": [
+                    "Solco Healthcare U.S., LLC"
+                ],
+                "product_ndc": [
+                    "43547-657"
+                ],
+                "product_type": [
+                    "HUMAN PRESCRIPTION DRUG"
+                ],
+                "route": [
+                    "ORAL"
+                ],
+                "substance_name": [
+                    "TICAGRELOR"
+                ],
+                "rxcui": [
+                    "1116635"
+                ],
+                "spl_id": [
+                    "cdf0937f-591e-4209-af83-585caae53938"
+                ],
+                "spl_set_id": [
+                    "5be5ef20-fc9f-4c3b-a482-83ffd8a3ab47"
+                ],
+                "package_ndc": [
+                    "43547-657-06",
+                    "43547-657-18",
+                    "43547-657-50"
+                ],
+                "nui": [
+                    "N0000182142",
+                    "N0000008832",
+                    "N0000182143",
+                    "N0000182141",
+                    "N0000185503"
+                ],
+                "pharm_class_epc": [
+                    "P2Y12 Platelet Inhibitor [EPC]"
+                ],
+                "pharm_class_pe": [
+                    "Decreased Platelet Aggregation [PE]"
+                ],
+                "pharm_class_moa": [
+                    "P2Y12 Receptor Antagonists [MoA]",
+                    "Cytochrome P450 3A4 Inhibitors [MoA]",
+                    "P-Glycoprotein Inhibitors [MoA]"
+                ],
+                "unii": [
+                    "GLH0314RVC"
+                ]
+            },
+            "products": [
+                {
+                    "product_number": "001",
+                    "reference_drug": "No",
+                    "brand_name": "TICAGRELOR",
+                    "active_ingredients": [
+                        {
+                            "name": "TICAGRELOR",
+                            "strength": "90MG"
+                        }
+                    ],
+                    "reference_standard": "No",
+                    "dosage_form": "TABLET",
+                    "route": "ORAL",
+                    "marketing_status": "Prescription",
+                    "te_code": "AB"
+                },
+                {
+                    "product_number": "002",
+                    "reference_drug": "No",
+                    "brand_name": "TICAGRELOR",
+                    "active_ingredients": [
+                        {
+                            "name": "TICAGRELOR",
+                            "strength": "90MG"
+                        }
+                    ],
+                    "reference_standard": "No",
+                    "dosage_form": "TABLET",
+                    "route": "ORAL",
+                    "marketing_status": "None (Tentative Approval)"
+                }
+            ]
+        },
+        {
+            "submissions": [
+                {
+                    "submission_type": "ORIG",
+                    "submission_number": "1",
+                    "submission_status": "AP",
+                    "submission_status_date": "20200407",
+                    "review_priority": "STANDARD",
+                    "submission_class_code": "UNKNOWN"
+                },
+                {
+                    "submission_type": "ORIG",
+                    "submission_number": "2",
+                    "submission_status": "TA",
+                    "submission_status_date": "20200407",
+                    "review_priority": "STANDARD",
+                    "submission_class_code": "UNKNOWN"
+                }
+            ],
+            "application_number": "ANDA208596",
+            "sponsor_name": "MSN",
+            "openfda": {
+                "application_number": [
+                    "ANDA208596"
+                ],
+                "brand_name": [
+                    "TICAGRELOR"
+                ],
+                "generic_name": [
+                    "TICAGRELOR"
+                ],
+                "manufacturer_name": [
+                    "Novadoz Pharmaceuticals LLC",
+                    "AvKARE"
+                ],
+                "product_ndc": [
+                    "72205-368",
+                    "73190-008"
+                ],
+                "product_type": [
+                    "HUMAN PRESCRIPTION DRUG"
+                ],
+                "route": [
+                    "ORAL"
+                ],
+                "substance_name": [
+                    "TICAGRELOR"
+                ],
+                "rxcui": [
+                    "1116635"
+                ],
+                "spl_id": [
+                    "b1c29d47-960f-4fc4-b6ff-399e2c6eec4c",
+                    "32ebf053-bec2-f39e-e063-6394a90a1153"
+                ],
+                "spl_set_id": [
+                    "b1c29d47-960f-4fc4-b6ff-399e2c6eec4c",
+                    "32ebf046-73e4-b11b-e063-6294a90a5bf4"
+                ],
+                "package_ndc": [
+                    "72205-368-60",
+                    "72205-368-91",
+                    "72205-368-18",
+                    "72205-368-99",
+                    "72205-368-11",
+                    "73190-008-60"
+                ],
+                "nui": [
+                    "N0000182142",
+                    "N0000008832",
+                    "N0000182143",
+                    "N0000182141",
+                    "N0000185503"
+                ],
+                "pharm_class_epc": [
+                    "P2Y12 Platelet Inhibitor [EPC]"
+                ],
+                "pharm_class_pe": [
+                    "Decreased Platelet Aggregation [PE]"
+                ],
+                "pharm_class_moa": [
+                    "P2Y12 Receptor Antagonists [MoA]",
+                    "Cytochrome P450 3A4 Inhibitors [MoA]",
+                    "P-Glycoprotein Inhibitors [MoA]"
+                ],
+                "unii": [
+                    "GLH0314RVC"
+                ]
+            },
+            "products": [
+                {
+                    "product_number": "001",
+                    "reference_drug": "No",
+                    "brand_name": "TICAGRELOR",
+                    "active_ingredients": [
+                        {
+                            "name": "TICAGRELOR",
+                            "strength": "90MG"
+                        }
+                    ],
+                    "reference_standard": "No",
+                    "dosage_form": "TABLET",
+                    "route": "ORAL",
+                    "marketing_status": "Prescription",
+                    "te_code": "AB"
+                }
+            ]
+        }
+    ]
+}
